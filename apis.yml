@@ -36,6 +36,8 @@ apis:
       manage security features, deploy firmware updates, and control
       hardware components programmatically.
 common:
+  - type: DomainSecurity
+    url: security/microsoft-surface-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/microsoft
   - type: LinkedIn
@@ -54,6 +56,8 @@ common:
     url: https://support.microsoft.com/surface
   - type: Integrations
     url: https://www.microsoft.com/en-us/marketplace
+  - url: https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=SurfaceITPro
+    type: Blog
 integrations:
   - name: Microsoft
   - name: Two people looking at a computer.
