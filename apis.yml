@@ -59,6 +59,12 @@ apis:
       manage security features, deploy firmware updates, and control
       hardware components programmatically.
 common:
+  - type: Plans
+    url: plans/microsoft-surface-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/microsoft-surface-rate-limits.yml
+  - type: FinOps
+    url: finops/microsoft-surface-finops.yml
   - type: DomainSecurity
     url: security/microsoft-surface-domain-security.yml
   - type: GitHubOrganization
